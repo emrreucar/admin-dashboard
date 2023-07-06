@@ -1,12 +1,7 @@
 
 
-
-
-![admin-dashboard](https://github.com/emrreucar/admin-dashboard/assets/111085998/f5a1f854-a6b1-4f8b-b0ad-0d3bd65d3617)
-
-
-
 # Getting Started with Create React App
+![admin-dashboard](https://github.com/emrreucar/admin-dashboard/assets/111085998/116f0c57-1681-438b-94d6-b7d650d2f330)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
